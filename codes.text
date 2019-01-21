@@ -1,0 +1,16 @@
+c++ code for calci
+#include <iostream>
+
+using namespace std;
+
+
+
+void showMenu ();
+int getOption();
+int getNumbers();
+int addNumbers();
+int divideNumbers();
+int subtractNumbers();
+int multiplyNumbers();
+void displayResults();
+

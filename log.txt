@@ -1,0 +1,79 @@
+    1  pwd
+    2  clear
+    3  cd D
+    4  cd d
+    5  mkdir project_2019
+    6  cd project_2019
+    7  clear
+    8  pwd
+    9  cd D:
+   10  mkdir project_2019
+   11  cd project_2019
+   12  ls
+   13  ls -ah
+   14  git init
+   15  ls -ah
+   16  vi first.text
+   17  cat first.txt
+   18  cat first.text
+   19  git status
+   20  git add first.text
+   21  git status
+   22  git commit -m"First commit"
+   23  git commit -m "First commit"
+   24  git status
+   25  git config --global user.email shivanichauhan0116@gmail.com
+   26  git status
+   27  git config --global user.name "shicani chauhan"
+   28  git config --global user.name "shivani chauhan"
+   29  git config --global user.email shivanichauhan0116@gmail.com
+   30  git status
+   31  git commit -m "First commit"
+   32  git status
+   33  git log
+   34  vi first.text
+   35  cat first.text
+   36  git status
+   37  git add first.text
+   38  git commit -m "2nd commit"
+   39  git log
+   40  history > log.txt
+   41  cat log.txt
+   42  git status
+   43  ls
+   44  clear
+   45  git init
+   46  cd project_2019
+   47  git init
+   48  ls -ah
+   49  vi first.text
+   50  cat first.text
+   51  git add first.text
+   52  git commit-m"third commit"
+   53  gitcommit-m"third commit"
+   54  git status
+   55  git commit-m "third commit"
+   56  git commit -m "Third Commit"
+   57  git status
+   58  git log
+   59  git remote add origin https://github.com/16shivani/shivani
+   60  git remote
+   61  git push -u origin master 
+   62  git init
+   63  mkdir data_structure_lab
+   64  cd data_structure_lab
+   65  vi codes.txt
+   66  git init
+   67  vi codes1.txt
+   68  cat codes1.txt
+   69  git add codes1.txt
+   70  git commit -m "code for calci"
+   71  git status
+   72  git add codes.txt
+   73  git status
+   74  git remote add origin https://github.com/16shivani/data-structure-lab
+   75  git remote
+   76  git push -u origin master
+   77  git log
+   78  history >codes1.txt
+   79  history >log.txt
